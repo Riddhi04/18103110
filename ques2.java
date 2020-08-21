@@ -1,4 +1,4 @@
-#package webtecass1pckg;
+//package webtecass1pckg;
 import java.util.*;
 
 public class ques2 {
