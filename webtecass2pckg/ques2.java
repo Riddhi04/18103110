@@ -1,4 +1,4 @@
-package webtecass2pckg;
+//package webtecass2pckg;
 import java.util.*;
 public class ques2 {
 	static void countSort(int[] arr) 
