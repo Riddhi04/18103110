@@ -1,4 +1,4 @@
-#package webtecass4pckg;
+//package webtecass4pckg;
 
 import java.util.Arrays;
 import java.util.Scanner;
