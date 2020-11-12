@@ -1,4 +1,4 @@
-package webtecass5pckg;
+//package webtecass5pckg;
 
 class Count{
 	static int maximum;
